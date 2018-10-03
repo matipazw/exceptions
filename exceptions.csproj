@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="no-return-codes\" />
+    <Folder Include="exception-context\" />
+    <Folder Include="exception-wrapper\" />
+    <Folder Include="null-return\" />
+    <Folder Include="custom-exceptions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="no-return-codes\no-return-codes.cs" />
+  </ItemGroup>
+</Project>
