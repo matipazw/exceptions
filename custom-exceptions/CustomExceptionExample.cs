@@ -2,7 +2,7 @@
 
 namespace exceptions.customexceptions
 {
-	public class Example5
+	public class CustomExceptionExample
     {
 		public void Execute() {
 

@@ -1,7 +1,8 @@
 ﻿using System;
 namespace exceptions.exceptionwrapper
 {
-    public class Exemple3Ok
+    public class ExceptionWrapperExampleOk
+
     {
 		public static void Execute()
         {

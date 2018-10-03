@@ -1,7 +1,6 @@
-﻿using System;
-namespace exceptions.nullreturn
+﻿namespace exceptions.nullreturn
 {
-	public class Example4Ok
+    public class NullReturnExampleOk
     {
 
         public static void Execute()

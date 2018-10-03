@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace exceptions.nullreturn
+﻿namespace exceptions.nullreturn
 {
-    public class Example4
+    public class NullReturnExample
     {
   
 		public static void Execute() {

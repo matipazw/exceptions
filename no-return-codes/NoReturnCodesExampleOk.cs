@@ -1,7 +1,7 @@
 ﻿using System;
 namespace exceptions.noreturncodes
 {
-	public class Example1Ok
+	public class NoReturnCodesExampleOk
     {
         public static void DoSomething()
         {

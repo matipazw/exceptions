@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace exceptions.exceptioncontext
 {
-    public class Example2
+    public class ExceptionContextExample
     {
 
 		public static void DoSomething(string param1, string param2) {
